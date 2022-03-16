@@ -40,6 +40,6 @@ export const config = {
     },
     mongodb: {
         host: "mongodb://127.0.0.1:27017",
-        dbName: "mediumclone",
+        dbName: "MediumClone",
     },
 };
