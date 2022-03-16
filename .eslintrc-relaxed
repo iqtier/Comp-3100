@@ -1,0 +1,23 @@
+{
+  "extends": ["./.eslintrc"],
+  "root": true,
+  "rules": {
+    "import/named": "off",
+    "import/no-cycle": "off",
+    "import/no-extraneous-dependencies": "off",
+    "import/no-named-as-default-member": "off",
+    "max-lines": "off",
+    "max-len": "off",
+    "no-undef": "off",
+    "no-unused-vars": "off",
+    "no-use-before-define": "off",
+    "no-restricted-syntax": "off",
+    "no-shadow": "off",
+    "react/destructuring-assignment": "off",
+    "react/jsx-props-no-multi-spaces": "off",
+    "react/no-unused-prop-types": "off",
+    "react/prefer-stateless-function": "off",
+    "react-hooks/rules-of-hooks": "off",
+    "require-jsdoc": "off"
+  }
+}
